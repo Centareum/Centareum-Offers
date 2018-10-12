@@ -46,4 +46,4 @@ yarn run dev
 
 * Now you can direct your browser to http://localhost:8080 and you will see this page:
 
-![Screenshot](docs/screenshot.jpg)
+![Screenshot](docs/Screenshot_4.jpg)
