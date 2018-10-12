@@ -37,7 +37,7 @@ Run the development blockchain. Keep Ganache running on this Terminal shell.
 # migrate the contracts to ganache
 truffle migrate
 
-# install all frontend dependencies (If you are on Windows you might see an error related to node.gyp,ignore and proceed to the next step.)
+# install all frontend dependencies
 yarnpkg install
 
 # serve a local front-end on http://localhost:8080
