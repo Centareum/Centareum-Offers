@@ -1,9 +1,8 @@
 {
-  "name": "arbano-free",
-  "description": "Arbano - A Vue.js Admin Dashboard Template by Vue.js Admin",
+  "name": "Centareum-offers",
+  "description": "Offers DApp",
   "version": "1.1.0",
-  "author": "Vue.js Admin <support@vuejsadmin.com>",
-  "license": "MIT",
+  "author": "Centareum",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
